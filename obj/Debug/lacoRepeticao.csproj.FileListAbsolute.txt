@@ -1,0 +1,7 @@
+C:\Users\Aluno\Desktop\ProjetosCSharp\lacoRepeticao\obj\Debug\lacoRepeticao.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetosCSharp\lacoRepeticao\obj\Debug\lacoRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetosCSharp\lacoRepeticao\bin\Debug\lacoRepeticao.exe.config
+C:\Users\Aluno\Desktop\ProjetosCSharp\lacoRepeticao\bin\Debug\lacoRepeticao.exe
+C:\Users\Aluno\Desktop\ProjetosCSharp\lacoRepeticao\bin\Debug\lacoRepeticao.pdb
+C:\Users\Aluno\Desktop\ProjetosCSharp\lacoRepeticao\obj\Debug\lacoRepeticao.exe
+C:\Users\Aluno\Desktop\ProjetosCSharp\lacoRepeticao\obj\Debug\lacoRepeticao.pdb
